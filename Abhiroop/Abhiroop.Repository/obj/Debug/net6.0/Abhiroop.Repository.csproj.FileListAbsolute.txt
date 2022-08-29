@@ -1,0 +1,15 @@
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\bin\Debug\net6.0\Abhiroop.Repository.deps.json
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\bin\Debug\net6.0\Abhiroop.Repository.dll
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\bin\Debug\net6.0\Abhiroop.Repository.pdb
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\bin\Debug\net6.0\Abhiroop.Domain.dll
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\bin\Debug\net6.0\Abhiroop.Domain.pdb
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.csproj.AssemblyReference.cache
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.AssemblyInfoInputs.cache
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.AssemblyInfo.cs
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.csproj.CoreCompileInputs.cache
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.csproj.CopyComplete
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.dll
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\refint\Abhiroop.Repository.dll
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\Abhiroop.Repository.pdb
+D:\AbhiroopTask\Abhiroop\Abhiroop.Repository\obj\Debug\net6.0\ref\Abhiroop.Repository.dll

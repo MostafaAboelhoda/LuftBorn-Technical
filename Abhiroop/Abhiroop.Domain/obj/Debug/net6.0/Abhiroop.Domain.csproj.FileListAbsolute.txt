@@ -1,0 +1,14 @@
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\bin\Debug\net6.0\Abhiroop.Domain.deps.json
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\bin\Debug\net6.0\Abhiroop.Domain.runtimeconfig.json
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\bin\Debug\net6.0\Abhiroop.Domain.dll
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\bin\Debug\net6.0\Abhiroop.Domain.pdb
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.csproj.AssemblyReference.cache
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.AssemblyInfoInputs.cache
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.AssemblyInfo.cs
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.csproj.CoreCompileInputs.cache
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.dll
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\refint\Abhiroop.Domain.dll
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.pdb
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\Abhiroop.Domain.genruntimeconfig.cache
+D:\AbhiroopTask\Abhiroop\Abhiroop.Domain\obj\Debug\net6.0\ref\Abhiroop.Domain.dll
