@@ -1,0 +1,38 @@
+<div class="container">
+  <h1 class="header">Employees List</h1>
+ <div class="actions">
+  <button href="#" routerLink="/employees/addEmployee/" mat-raised-button color="primary">
+  Create New Employee
+  </button>
+ </div>
+  <table mat-table multiTemplateDataRows [dataSource]="employees" class="mat-elevation-z8 employess-table">
+    <ng-container matColumnDef="userName">
+      <th mat-header-cell *matHeaderCellDef> UserName </th>
+      <td mat-cell *matCellDef="let employee"> {{employee.userName}} </td>
+    </ng-container>
+    <ng-container matColumnDef="email">
+      <th mat-header-cell *matHeaderCellDef> Email </th>
+      <td mat-cell *matCellDef="let employee"> {{employee.email}} </td>
+    </ng-container>
+    <ng-container matColumnDef="address">
+      <th mat-header-cell *matHeaderCellDef> Address </th>
+      <td mat-cell *matCellDef="let employee"> {{employee.address}} </td>
+    </ng-container>
+    <ng-container matColumnDef="actions">
+      <th mat-header-cell *matHeaderCellDef> actions </th>
+      <td mat-cell *matCellDef="let employee"> 
+        <button mat-raised-button  class="mr-10" [routerLink]="['/employees/editEmployee/'+employee.id]">
+          <mat-icon>edit</mat-icon>
+        </button>
+        <button mat-raised-button color="warn" (click)="deleteEmployee(employee.id)">
+          <mat-icon>delete</mat-icon>
+        </button>
+       
+      </td>
+    </ng-container>
+    <tr mat-header-row *matHeaderRowDef="['userName','email','address','actions']"></tr>
+    <tr mat-row *matRowDef="let row; columns: ['userName','email','address','actions'];"></tr>
+    <tr class="mat-row" *matNoDataRow>
+      <td colspan="4" class="text-center nodata">No Items Found</td>
+    </tr>
+</table>

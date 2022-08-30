@@ -1,0 +1,27 @@
+<div class="container">
+  <h2>Create Employee</h2>
+  <form [formGroup]="form" *ngIf="form" class="form-contnet" (ngSubmit)="submit()">
+      <mat-form-field appearance="standard">
+          <mat-label>userName</mat-label>
+          <input matInput maxlength="15" inputmode="tel" placeholder="Type userName" formControlName="userName" #nameInput>
+          <mat-error>userName is required</mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="legacy">
+          <mat-label>Email Address:</mat-label>
+          <input matInput type="email" formControlName="email" placeholder="Your email">
+          <mat-error *ngIf="form.controls['email'].errors?.['required']">Email is required</mat-error>
+          <mat-error *ngIf="form.controls['email'].errors?.['email']">Please enter valid email</mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="standard">
+          <mat-label>Address:</mat-label>
+          <textarea matInput placeholder="address" formControlName="address"></textarea>
+      </mat-form-field>
+    
+      <div mat-dialog-actions class="actions" >
+          <button mat-raised-button color="primary" type="submit" [disabled]="!form.valid">Submit</button>
+          <button mat-raised-button color="warn" routerLink="/employees">close</button>
+      </div>
+  </form>
+</div>
